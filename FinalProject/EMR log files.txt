@@ -1,0 +1,6 @@
+EMR Log Files
+
+https://s3-us-west-2.amazonaws.com/antiblackmoneyusecase2/logs
+
+[4:54]  
+https://s3-us-west-2.amazonaws.com/antiblackmoney/logs
